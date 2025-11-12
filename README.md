@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Denis Drobotenco
 
-<!--
-**neocraftdev/neocraftdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an explorer of modern technology — blending creativity, logic, and curiosity.  
+Currently learning across software development, automation, and digital design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I’m learning
+- Backend fundamentals (Kotlin, Java, Python)
+- Game development with **Unity** and **C#**
+- Frontend basics and UI design principles  
+- Cloud tools & automation (n8n, Docker, APIs)
+- AI and creative coding experiments  
+
+---
+
+### ⚙️ Projects
+Here are a few areas I’m exploring:
+- 🚀 **Automation tools** — small workflows to simplify daily tasks  
+- 🎮 **Game prototypes** — testing ideas from code to concept  
+- 🧩 **Open-source snippets** — experiments, utilities, and learning notes  
+
+---
+
+### 🧩 Tech Stack
+`Kotlin` · `C#` · `Unity` · `Python` · `HTML/CSS` · `Git` · `n8n` · `Docker` · `VS Code`
+
+---
+
+### 🌱 Philosophy
+> “Keep learning. Build small things. Share what you discover.”
+
+---
+
+#### ⚡ Fun fact
+When I’m not coding, I enjoy exploring design trends, tech communities, and building creative experiments.
